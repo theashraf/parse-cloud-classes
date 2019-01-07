@@ -15,5 +15,5 @@ var api = new ParseServer({
 app.use('/parse', api)
 
 app.listen(3000, function() {
-	console.log('parse-cloud-class example running on port 3000.')
+	console.log('parse-cloud-classes example running on port 3000.')
 })
