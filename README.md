@@ -13,7 +13,7 @@ An easy way to extend parse cloud triggers behaviour
 ## Installation
 
 ```sh
-npm install --save parse-cloud-classes
+npm i parse-cloud-classes
 ```
 
 ## Example
