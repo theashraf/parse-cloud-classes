@@ -9,8 +9,7 @@
     "lint": "eslint .",
     "cz": "git-cz",
     "dev": "nodemon example",
-    "release": "semantic-release",
-    "semantic-release": "semantic-release"
+    "release": "semantic-release"
   },
   "author": "Abdelrahman Ashraf <a.theashraf@gmail.com> (https://github.com/theashraf)",
   "license": "MIT",
